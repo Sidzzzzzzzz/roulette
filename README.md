@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/zer-far/roulette"
+	"github.com/sidzzzzzzzz/roulette"
 )
 
 func main() {
